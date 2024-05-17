@@ -15,7 +15,7 @@ Anyways, have a peek around and reach out if you have questions.
 ## Tools and Platforms
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)/
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-323330?style=for-the-badge&logo=argocd&logoColor=orange)](https://argo-cd.readthedocs.io/en/stable/)
