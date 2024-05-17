@@ -44,5 +44,5 @@ Anyways, have a peek around and reach out if you have questions.
 [![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Go](https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=golang&logoColor=blue)](https://go.dev/)
-[![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=blue)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=go&logoColor=blue)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
