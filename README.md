@@ -42,10 +42,9 @@ Anyways, have a peek around and reach out if you have questions.
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue)](https://react.dev/)
-[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=Express&logoColor=F7DF1E)](https://expressjs.com/)
-[![Node](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)](https://nodejs.org/en)
-[![NPM](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=red)](https://www.npmjs.com/)
+[![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=blue)](https://react.dev/)
+[![Express](https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=Express&logoColor=F7DF1E)](https://expressjs.com/)
+[![Node](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=green)](https://nodejs.org/en)
 [![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
