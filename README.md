@@ -15,6 +15,7 @@ Anyways, have a peek around and reach out if you have questions.
 ## Tools and Platforms
 
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://www.docker.com/)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-323330?style=for-the-badge&logo=argocd&logoColor=orange)](https://argo-cd.readthedocs.io/en/stable/)
 [![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://docs.openshift.com/)
 [![GCP](https://img.shields.io/badge/GCP-323330?style=for-the-badge&logo=googlecloudplatform&logoColor=yellow)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=gold)](https://aws.amazon.com/)
