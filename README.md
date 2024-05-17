@@ -43,7 +43,7 @@ Anyways, have a peek around and reach out if you have questions.
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=blue)](https://react.dev/)
-[![Express](https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=Express&logoColor=F7DF1E)](https://expressjs.com/)
+[![Express](https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=Express&logoColor=red)](https://expressjs.com/)
 [![Node](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=green)](https://nodejs.org/en)
 [![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
