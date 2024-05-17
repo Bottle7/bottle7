@@ -14,10 +14,10 @@ Anyways, have a peek around and reach out if you have questions.
 
 ## Tools and Platforms
 
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Neovim](https://img.shields.io/badge/NeoVim-323330?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Vim](https://img.shields.io/badge/VIM-323330?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-323330?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-323330?style=for-the-badge&logo=argocd&logoColor=orange)](https://argo-cd.readthedocs.io/en/stable/)
 [![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://docs.openshift.com/)
 [![GCP](https://img.shields.io/badge/GoogleCloud-323330?style=for-the-badge&logo=googlecloudplatform&logoColor=yellow)](https://cloud.google.com/)
@@ -51,5 +51,5 @@ Anyways, have a peek around and reach out if you have questions.
 [![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Go](https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=go&logoColor=blue)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
-[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html)
+[![Lua](https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/docs.html)
 
