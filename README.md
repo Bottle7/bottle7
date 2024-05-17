@@ -16,6 +16,7 @@ Anyways, have a peek around and reach out if you have questions.
 
 [![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=blue)](https://www.docker.com/)
 [![Openshift](https://img.shields.io/badge/Openshift-323330?style=for-the-badge&logo=redhatopenshift&logoColor=red)](https://docs.openshift.com/)
+[![GCP](https://img.shields.io/badge/GCP-323330?style=for-the-badge&logo=googlecloudplatform&logoColor=yellow)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=gold)](https://aws.amazon.com/)
 [![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Microsoft_Windows)
