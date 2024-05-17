@@ -20,6 +20,13 @@ Anyways, have a peek around and reach out if you have questions.
 [![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Mac](https://img.shields.io/badge/Mac-323330?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![GitHub](https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=red)](https://git-scm.com/)
+[![Swagger](https://img.shields.io/badge/swagger-323330?style=for-the-badge&logo=swagger&logoColor=green)](https://swagger.io/)
+[![Nginx](https://img.shields.io/badge/Nginx-323330?style=for-the-badge&logo=Nginx&logoColor=green)](https://www.nginx.com/)
+[![Jira](https://img.shields.io/badge/jira-323330?style=for-the-badge&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
+[![YAML](https://img.shields.io/badge/YAML-323330?style=for-the-badge&logo=YAML&logoColor=orange)](https://yaml.org/)
+[![JSON](https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=json&logoColor=yellow)](https://www.json.org/json-en.html)
 
 ## DBs
 
@@ -37,3 +44,5 @@ Anyways, have a peek around and reach out if you have questions.
 [![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bash](https://img.shields.io/badge/Bash-323330?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Go](https://img.shields.io/badge/Go-323330?style=for-the-badge&logo=golang&logoColor=blue)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=blue)](https://www.rust-lang.org/)
